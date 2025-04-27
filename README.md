@@ -17,12 +17,12 @@ This script is a general guide to couple a DYMOLA simulation model with a Python
 <table>
   <tr>
     <td align="center">
-      <img src="input.JPG" alt="Image 1" width="200"/><br/>
-      <sub>Caption for Image 1</sub>
+      <img src="input.JPG" alt="Image 1" width="400"/><br/>
+      <sub>DYMOLA Input module</sub>
     </td>
     <td align="center">
-      <img src="output.JPG" alt="Image 2" width="200"/><br/>
-      <sub>Caption for Image 2</sub>
+      <img src="output.JPG" alt="Image 2" width="400"/><br/>
+      <sub>DYMOLA Output module</sub>
     </td>
   </tr>
 </table>
