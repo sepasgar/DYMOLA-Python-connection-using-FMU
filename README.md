@@ -6,11 +6,11 @@ This script is a general guide to couple a DYMOLA simulation model with a Python
 <table>
   <tr>
     <td align="center" style="vertical-align: top;">
-      <img src="input.JPG" alt="Image 1" width="200" height="150"/><br/><br/>
+      <img src="input.JPG" alt="Image 1" width="200" height="100"/><br/><br/>
       <sub>Caption for Image 1</sub>
     </td>
     <td align="center" style="vertical-align: top;">
-      <img src="output.JPG" alt="Image 2" width="200" height="150"/><br/><br/>
+      <img src="output.JPG" alt="Image 2" width="200" height="100"/><br/><br/>
       <sub>Caption for Image 2</sub>
     </td>
   </tr>
