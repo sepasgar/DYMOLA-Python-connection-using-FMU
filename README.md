@@ -9,3 +9,15 @@ This script is a general guide to couple a DYMOLA simulation model with a Python
 <div align="center">
   <img src="output.JPG" alt="DYMOLA Output module" width="300"/>
 </div>
+
+
+<p align="center">
+  <figure style="display: inline-block; margin: 10px;">
+    <img src="input.JPG" alt="DYMOLA Input module" width="200"/>
+    <figcaption style="text-align: center;">Caption for Image 1</figcaption>
+  </figure>
+  <figure style="display: inline-block; margin: 10px;">
+    <img src="output.JPG" alt="DYMOLA Output module" width="200"/>
+    <figcaption style="text-align: center;">Caption for Image 2</figcaption>
+  </figure>
+</p>
