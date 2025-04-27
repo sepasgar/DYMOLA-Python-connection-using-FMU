@@ -8,11 +8,11 @@ To generate FMU, you should export your simulation model in FMU format in DYMOLA
   <tr>
     <td align="center" style="vertical-align: top;">
       <img src="input.JPG" alt="Image 1" width="200" height="50"/><br/><br/>
-      <sub>Fig. 1 - DYMOLA Input module</sub>
+      <sub>Fig. 1 - DYMOLA Input module, here named as 'window_state' for example</sub>
     </td>
     <td align="center" style="vertical-align: top;">
       <img src="output.JPG" alt="Image 2" width="200" height="80"/><br/>
-      <sub>Fig. 2 - DYMOLA Output module</sub>
+      <sub>Fig. 2 - DYMOLA Output module here named as 'T_real' for example</sub>
     </td>
   </tr>
 </table>
