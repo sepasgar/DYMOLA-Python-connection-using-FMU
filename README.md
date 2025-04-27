@@ -10,7 +10,7 @@ This script is a general guide to couple a DYMOLA simulation model with a Python
       <sub>Caption for Image 1</sub>
     </td>
     <td align="center" style="vertical-align: top;">
-      <img src="output.JPG" alt="Image 2" width="200" height="50"/><br/><br/>
+      <img src="output.JPG" alt="Image 2" width="200" height="80"/><br/><br/>
       <sub>Caption for Image 2</sub>
     </td>
   </tr>
