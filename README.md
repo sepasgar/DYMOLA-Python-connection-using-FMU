@@ -10,7 +10,7 @@ This script is a general guide to couple a DYMOLA simulation model with a Python
   <img src="output.JPG" alt="DYMOLA Output module" width="300"/>
 </div>
 
-
+<p align="center">
 <table>
   <tr>
     <td align="center">
@@ -23,7 +23,7 @@ This script is a general guide to couple a DYMOLA simulation model with a Python
     </td>
   </tr>
 </table>
-
+</p>
 
 <p align="center">
   <figure style="display: inline-block; margin: 10px;">
