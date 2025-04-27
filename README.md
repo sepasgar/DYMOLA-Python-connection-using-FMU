@@ -1,3 +1,9 @@
 # DYMOLA-Python-connection-using-FMU
 This script is a general guide to couple a DYMOLA simulation model with a Python script. This is mainly used when you want to make use of Deep/Machine learning in your simulation. The 'fmpy' library is used in this script, but there are also other libraries.
+
+<div align="center">
+  <img src="input.JPG" alt="Input module" width="500"/>
+</div>
+
+
 ![input](input.JPG "Input module")
